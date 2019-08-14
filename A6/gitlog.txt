@@ -1,0 +1,35 @@
+commit ad4b0e7a4fd9832c5687340769f588892ec861d3
+Author: Matthieu Van der Slikke <Mattvds@MBP-de-Matthieu.local>
+Date:   Fri Dec 8 01:55:07 2017 -0500
+
+    adding the producer
+
+commit 61adc699f0448e0058bf1f2da665e3ed9ba94ac1
+Author: Matthieu Van der Slikke <Mattvds@MBP-de-Matthieu.local>
+Date:   Fri Dec 8 01:53:23 2017 -0500
+
+    adding the header and the main
+
+commit 419432110bfd8a63f5ee2afe5e24dc731e3f88f9
+Author: Matthieu Van der Slikke <Mattvds@MBP-de-Matthieu.local>
+Date:   Fri Dec 8 01:50:11 2017 -0500
+
+    final consumer
+
+commit a8d4d268c8f2bf1f09bf1a65ed28c534a3942fe8
+Author: Matthieu Van der Slikke <Mattvds@MacBook-Pro-de-Matthieu.local>
+Date:   Tue Dec 5 18:00:56 2017 -0500
+
+    finishing consumer file
+
+commit 8b1002673300cc75f67c9cdbd32de0d4b8ad6d2b
+Author: Matthieu Van der Slikke <Mattvds@MacBook-Pro-de-Matthieu.local>
+Date:   Tue Dec 5 15:45:25 2017 -0500
+
+    add variables consumer.c
+
+commit 1166a8f7f673f2c147e8a98cde48971707cc20e5
+Author: Matthieu Van der Slikke <Mattvds@MacBook-Pro-de-Matthieu.local>
+Date:   Tue Dec 5 12:22:22 2017 -0500
+
+    creation of consumer.c
